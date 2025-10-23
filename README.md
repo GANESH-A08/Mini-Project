@@ -13,5 +13,5 @@ pandas, numpy: For data manipulation and numerical operations.​
 xgboost: For regression modeling.​
 scikit-learn: For data splitting and evaluation metrics.
 
-RUN.DAT:
+RUN.BAT:
 this file is used to run the project.
